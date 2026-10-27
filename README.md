@@ -1,2 +1,4 @@
-# JSON-FORMATTER-VALIDATOR
-Project: Json Formatter Validator
+# DataLens
+
+Working local MVP matching its project prompt. Open index.html directly or from the mini-projects local server.
+
